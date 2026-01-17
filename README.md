@@ -1,2 +1,2 @@
-# TinyLuaC-
+# TinyLuaC++
 Lua to C++
